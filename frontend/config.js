@@ -1,7 +1,5 @@
-// ⚠️ WARNING: This is a Railway project URL, not a service URL.
-// The service needs to be deployed first to get a real API URL.
-// After deployment, update this with your actual Railway service URL.
-// You can find it in Railway dashboard under your service's Settings > Domains
+// API Configuration
+// Update this URL with your actual Railway service URL after deployment
 const CONFIG = {
-    API_URL: "https://railway.app/project/8a318eac-c952-4a84-8e75-cfe9a5006bb2"
+    API_URL: "https://webapi69569cfa9e8a86c45515fa71-production.up.railway.app"
 };
